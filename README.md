@@ -7,3 +7,6 @@ Javier Muñoz García (jmunozgarci)
 * **src/flower_scapper.py** -> Fichero con el código en Python que extrae la información.
 * **pdf/dataset_description** -> Breve documento acerca del conjunto de datos.
 * **csv/flower_types_dataset** -> Fichero CSV resultante.
+
+## Web origen
+**[Cornell University]**(http://www.gardening.cornell.edu/homegardening/scenee139.html?ref=organicgglunkwn&prid=pfseogglunkwn)
